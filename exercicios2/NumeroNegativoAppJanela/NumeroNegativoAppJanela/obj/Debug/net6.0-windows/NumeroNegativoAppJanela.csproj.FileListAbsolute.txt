@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\bin\Debug\net6.0-windows\NumeroNegativoAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\bin\Debug\net6.0-windows\NumeroNegativoAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\bin\Debug\net6.0-windows\NumeroNegativoAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\bin\Debug\net6.0-windows\NumeroNegativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\bin\Debug\net6.0-windows\NumeroNegativoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\refint\NumeroNegativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\NumeroNegativoAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\NumeroNegativoAppJanela\NumeroNegativoAppJanela\obj\Debug\net6.0-windows\ref\NumeroNegativoAppJanela.dll

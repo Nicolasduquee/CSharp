@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\bin\Debug\net6.0-windows\ComparativoAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\bin\Debug\net6.0-windows\ComparativoAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\bin\Debug\net6.0-windows\ComparativoAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\bin\Debug\net6.0-windows\ComparativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\bin\Debug\net6.0-windows\ComparativoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\refint\ComparativoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ComparativoAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\ComparativoAppJanela\ComparativoAppJanela\obj\Debug\net6.0-windows\ref\ComparativoAppJanela.dll

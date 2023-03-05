@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\bin\Debug\net6.0-windows\NumeroPositivoAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\bin\Debug\net6.0-windows\NumeroPositivoAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\bin\Debug\net6.0-windows\NumeroPositivoAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\bin\Debug\net6.0-windows\NumeroPositivoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\bin\Debug\net6.0-windows\NumeroPositivoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\refint\NumeroPositivoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\NumeroPositivoAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\NumeroPositivoAppJanela\NumeroPositivoAppJanela\obj\Debug\net6.0-windows\ref\NumeroPositivoAppJanela.dll

@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\net6.0-windows\PositivoNegativoZero.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\net6.0-windows\PositivoNegativoZero.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\net6.0-windows\PositivoNegativoZero.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\net6.0-windows\PositivoNegativoZero.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\bin\Debug\net6.0-windows\PositivoNegativoZero.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\refint\PositivoNegativoZero.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\PositivoNegativoZero.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\PositivoNegativoZero\PositivoNegativoZero\obj\Debug\net6.0-windows\ref\PositivoNegativoZero.dll

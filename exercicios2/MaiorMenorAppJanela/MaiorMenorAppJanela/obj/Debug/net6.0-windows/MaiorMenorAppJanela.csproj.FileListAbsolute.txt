@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\bin\Debug\net6.0-windows\MaiorMenorAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\bin\Debug\net6.0-windows\MaiorMenorAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\bin\Debug\net6.0-windows\MaiorMenorAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\bin\Debug\net6.0-windows\MaiorMenorAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\bin\Debug\net6.0-windows\MaiorMenorAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\refint\MaiorMenorAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\MaiorMenorAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\MaiorMenorAppJanela\MaiorMenorAppJanela\obj\Debug\net6.0-windows\ref\MaiorMenorAppJanela.dll

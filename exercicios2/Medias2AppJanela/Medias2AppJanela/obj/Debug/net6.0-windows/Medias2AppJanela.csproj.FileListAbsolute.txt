@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\bin\Debug\net6.0-windows\Medias2AppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\bin\Debug\net6.0-windows\Medias2AppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\bin\Debug\net6.0-windows\Medias2AppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\bin\Debug\net6.0-windows\Medias2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\bin\Debug\net6.0-windows\Medias2AppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\refint\Medias2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\Medias2AppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercicios2\Medias2AppJanela\Medias2AppJanela\obj\Debug\net6.0-windows\ref\Medias2AppJanela.dll
