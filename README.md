@@ -1,2 +1,2 @@
 # CSharp
-Exercícios desenvolvidos em C#.
+Exercícios desenvolvidos em linguagem C#.
