@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\bin\Debug\net6.0\ValorEConsoleApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\bin\Debug\net6.0\ValorEConsoleApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\bin\Debug\net6.0\ValorEConsoleApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\bin\Debug\net6.0\ValorEConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\bin\Debug\net6.0\ValorEConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\refint\ValorEConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ValorEConsoleApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\ValorEConsoleApp\ValorEConsoleApp\obj\Debug\net6.0\ref\ValorEConsoleApp.dll

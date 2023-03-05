@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\bin\Debug\net6.0\PrefeituraConsoleApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\bin\Debug\net6.0\PrefeituraConsoleApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\bin\Debug\net6.0\PrefeituraConsoleApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\bin\Debug\net6.0\PrefeituraConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\bin\Debug\net6.0\PrefeituraConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\refint\PrefeituraConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\PrefeituraConsoleApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\PrefeituraConsoleApp\PrefeituraConsoleApp\obj\Debug\net6.0\ref\PrefeituraConsoleApp.dll

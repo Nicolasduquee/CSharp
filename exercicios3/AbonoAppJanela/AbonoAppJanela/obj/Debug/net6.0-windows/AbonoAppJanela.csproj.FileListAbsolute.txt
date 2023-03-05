@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\bin\Debug\net6.0-windows\AbonoAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\bin\Debug\net6.0-windows\AbonoAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\bin\Debug\net6.0-windows\AbonoAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\bin\Debug\net6.0-windows\AbonoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\bin\Debug\net6.0-windows\AbonoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\refint\AbonoAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\AbonoAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\exercicios3\AbonoAppJanela\AbonoAppJanela\obj\Debug\net6.0-windows\ref\AbonoAppJanela.dll
