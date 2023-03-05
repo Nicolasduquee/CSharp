@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\bin\Debug\net6.0-windows\exercicioo2AppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\bin\Debug\net6.0-windows\exercicioo2AppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\bin\Debug\net6.0-windows\exercicioo2AppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\bin\Debug\net6.0-windows\exercicioo2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\bin\Debug\net6.0-windows\exercicioo2AppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\refint\exercicioo2AppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\exercicioo2AppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicioo2AppJanela\exercicioo2AppJanela\obj\Debug\net6.0-windows\ref\exercicioo2AppJanela.dll

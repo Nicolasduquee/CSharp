@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\bin\Debug\net6.0\exercicio3ConsoleApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\bin\Debug\net6.0\exercicio3ConsoleApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\bin\Debug\net6.0\exercicio3ConsoleApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\bin\Debug\net6.0\exercicio3ConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\bin\Debug\net6.0\exercicio3ConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\refint\exercicio3ConsoleApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\exercicio3ConsoleApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programação_microinformática\avaliacao2\exercicio3ConsoleApp\exercicio3ConsoleApp\obj\Debug\net6.0\ref\exercicio3ConsoleApp.dll
