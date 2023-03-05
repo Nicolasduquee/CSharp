@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\bin\Debug\net6.0-windows\CalcularMediaAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\bin\Debug\net6.0-windows\CalcularMediaAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\bin\Debug\net6.0-windows\CalcularMediaAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\bin\Debug\net6.0-windows\CalcularMediaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\bin\Debug\net6.0-windows\CalcularMediaAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\refint\CalcularMediaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\CalcularMediaAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediaAppJanela\CalcularMediaAppJanela\obj\Debug\net6.0-windows\ref\CalcularMediaAppJanela.dll

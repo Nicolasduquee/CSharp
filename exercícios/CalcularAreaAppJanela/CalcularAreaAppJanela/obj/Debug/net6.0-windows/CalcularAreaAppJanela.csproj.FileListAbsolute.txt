@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\bin\Debug\net6.0-windows\CalcularAreaAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\bin\Debug\net6.0-windows\CalcularAreaAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\bin\Debug\net6.0-windows\CalcularAreaAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\bin\Debug\net6.0-windows\CalcularAreaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\bin\Debug\net6.0-windows\CalcularAreaAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\refint\CalcularAreaAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\CalcularAreaAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaAppJanela\CalcularAreaAppJanela\obj\Debug\net6.0-windows\ref\CalcularAreaAppJanela.dll

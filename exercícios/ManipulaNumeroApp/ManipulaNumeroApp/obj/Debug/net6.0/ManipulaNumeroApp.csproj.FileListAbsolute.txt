@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\bin\Debug\net6.0\ManipulaNumeroApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\bin\Debug\net6.0\ManipulaNumeroApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\bin\Debug\net6.0\ManipulaNumeroApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\bin\Debug\net6.0\ManipulaNumeroApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\bin\Debug\net6.0\ManipulaNumeroApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\refint\ManipulaNumeroApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ManipulaNumeroApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\ManipulaNumeroApp\ManipulaNumeroApp\obj\Debug\net6.0\ref\ManipulaNumeroApp.dll

@@ -1,0 +1,17 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\bin\Debug\net6.0-windows\SomaNumerosAppJanela.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\bin\Debug\net6.0-windows\SomaNumerosAppJanela.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\bin\Debug\net6.0-windows\SomaNumerosAppJanela.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\bin\Debug\net6.0-windows\SomaNumerosAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\bin\Debug\net6.0-windows\SomaNumerosAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.Form1.resources
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.csproj.GenerateResource.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\refint\SomaNumerosAppJanela.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\SomaNumerosAppJanela.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosAppJanela\SomaNumerosAppJanela\obj\Debug\net6.0-windows\ref\SomaNumerosAppJanela.dll

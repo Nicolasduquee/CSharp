@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\bin\Debug\net6.0\CalcularAreaApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\bin\Debug\net6.0\CalcularAreaApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\bin\Debug\net6.0\CalcularAreaApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\bin\Debug\net6.0\CalcularAreaApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\bin\Debug\net6.0\CalcularAreaApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\refint\CalcularAreaApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\CalcularAreaApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularAreaApp\CalcularAreaApp\obj\Debug\net6.0\ref\CalcularAreaApp.dll

@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\bin\Debug\net6.0\SomaNumerosApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\bin\Debug\net6.0\SomaNumerosApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\bin\Debug\net6.0\SomaNumerosApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\bin\Debug\net6.0\SomaNumerosApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\bin\Debug\net6.0\SomaNumerosApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\refint\SomaNumerosApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\SomaNumerosApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\SomaNumerosApp\SomaNumerosApp\obj\Debug\net6.0\ref\SomaNumerosApp.dll

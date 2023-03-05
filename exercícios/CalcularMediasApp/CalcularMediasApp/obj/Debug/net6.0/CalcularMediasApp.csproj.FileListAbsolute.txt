@@ -1,0 +1,15 @@
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.csproj.AssemblyReference.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.AssemblyInfoInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.AssemblyInfo.cs
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\bin\Debug\net6.0\CalcularMediasApp.exe
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\bin\Debug\net6.0\CalcularMediasApp.deps.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\bin\Debug\net6.0\CalcularMediasApp.runtimeconfig.json
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\bin\Debug\net6.0\CalcularMediasApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\bin\Debug\net6.0\CalcularMediasApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\refint\CalcularMediasApp.dll
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.pdb
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\CalcularMediasApp.genruntimeconfig.cache
+C:\Users\Nicolas Duque\Desktop\fatec\programaçã0_microinformática\exercícios\CalcularMediasApp\CalcularMediasApp\obj\Debug\net6.0\ref\CalcularMediasApp.dll
