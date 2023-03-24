@@ -14,12 +14,13 @@ namespace Ex5
             if (qtdPera >= 12)
             {
                 double valor = qtdPera * 1.00;
-                MessageBox.Show("O valor total da compra é de R$" + valor);
+                MessageBox.Show("O valor total da compra Ã© de R$" + valor);
             }
             else
             {
                 double valor = qtdPera * 1.50;
-                MessageBox.Show("O valor total da compra é de R$" + valor);
+                MessageBox.Show("O valor total da compra Ã© de R$" + valor);
+                
             }
         }
     }
